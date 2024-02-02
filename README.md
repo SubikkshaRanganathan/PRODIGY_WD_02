@@ -15,6 +15,10 @@ This is a simple web application that allows users to use a stopwatch to track t
 - HTML
 - CSS
 - JavaScript
+etting Started
+Clone this repository to your local machine:
+
+git clone https://github.com/SubikkshaRanganathan/PRODIGY_WD_02
 
 ## Usage
 
